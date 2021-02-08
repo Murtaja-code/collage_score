@@ -1,9 +1,10 @@
 <template>
   <b-container fluid="md" dir="rtl" class="text-center">
-    <h3 class="mb-4 mt-3">
+    <h3 class="mt-3">
       <span class="blue"> الحدود الدنيا للقبول المركزي لسنة </span>
       <span class="pink">2020/2019</span>
     </h3>
+    <small>تتضمن الحدود الدنيا لمعاهد النفط ايضاً</small>
     <hr class="col-8" />
     <!-- User Interface controls -->
     <b-row>
